@@ -16,7 +16,7 @@ function AppRoutes() {
 
   return (
     <>
-      {isAuthPage ? <NavbarAuth /> : <NavbarMain />}
+      {isAuthPage ? "" : <NavbarMain />}
 
       <main > 
         <Routes>
