@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+*.env
+frontend/.env
+backend/.env
+
+# Build outputs
+frontend/dist/
+frontend/build/
+backend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# logs
+logs/
+*.log
+
+# VSCode
+.vscode/
+
+# Optional: local database files
+data/
