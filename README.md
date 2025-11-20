@@ -1,5 +1,5 @@
 
-# EMPLOYEE MANAGEMENT SYSTEM 
+# CEROPE WEB PAGE 
 this project is based on mern stack technologies (react,nodejs,mongodb,expressjs ) . in this project we can add emplyee details , 
 edit EMPLOYEE, update emplyee etc 
 
